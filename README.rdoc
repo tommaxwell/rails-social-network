@@ -1,2 +1,2 @@
-This project is a Twitter-like social network. It's simply a project I decided to build to guide me along as I learn 
+This project is a Twitter-like web app. It's simply a project I decided to build to guide me along as I learn 
 the Ruby programming language. 
